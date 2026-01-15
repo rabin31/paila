@@ -35,11 +35,11 @@ const TripPlanningForm = () => {
     { id: 'festive', title: 'Festive / Joyful', icon: '🎭' }
   ]
 
-  useEffect(() => {
-    if (!isAuthenticated()) {
-      router.push("/login");
-    }
-  }, []);
+useEffect(() => {
+  if (!isAuthenticated()) {
+    router.push("/login");
+  }
+}, []);
 
   const handleInputChange = (e) => {
     const { name, value } = e.target;
@@ -542,7 +542,7 @@ Make sure all costs are in Nepali Rupees (NPR) format and the response is valid 
               Plan Your Perfect Trip
             </h1>
             <p className="text-lg text-gray-500 max-w-2xl mx-auto">
-              Tell us about your travel mood and preferences, and we'll create a personalized journey just for you.
+              Tell us about your travel mood and preferences, and we&apos;ll create a personalized journey just for you.
             </p>
           </div>
 

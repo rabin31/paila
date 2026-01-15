@@ -114,7 +114,7 @@ const Detail = () => {
                     Your personal charter broker will listen to your feedback and draw on years of expertise to guide you through every step of the charter process, from enquiry to booking and beyond.
                   </p>
                   <p ref={el => el && (paragraphsRef.current[3] = el)}>
-                    We reject thousands of yachts and do all the hard work, so you don't have to!
+                    We reject thousands of yachts and do all the hard work, so you don&apos;t have to!
                   </p>
                 </div>
                 <button ref={buttonRef} className="px-6 py-4 bg-white text-[#1447E6] flex items-center justify-center gap-2 rounded-sm hover:bg-gray-100 transition-colors duration-200">

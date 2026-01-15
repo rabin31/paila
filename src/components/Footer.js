@@ -32,7 +32,7 @@ function Footer() {
 							</div>
 							
 							<p className='text-sm sm:text-base text-gray-300 leading-relaxed text-center sm:text-left max-w-xs sm:max-w-sm mx-auto sm:mx-0'>
-								Scaling new heights in travel experiences. We craft unforgettable journeys to the world's most breathtaking destinations, with Mount Everest as our inspiration.
+								Scaling new heights in travel experiences. We craft unforgettable journeys to the world&apos;s most breathtaking destinations, with Mount Everest as our inspiration.
 							</p>
 							
 							{/* Social Media Links */}

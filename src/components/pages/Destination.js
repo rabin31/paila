@@ -213,7 +213,7 @@ const Destination = () => {
     <div ref={sectionRef} className="h-screen w-full">
       <div ref={headerRef} className="px-8 py-14 flex items-center justify-between">
         <h1 ref={titleRef} className="text-5xl font-medium max-w-3xl text-[#181916]">
-          Explore Nepal's Beautiful Destinations
+          Explore Nepal&apos;s Beautiful Destinations
         </h1>
         <div ref={playButtonRef} className="h-20 w-40 flex items-end justify-end">
           <button 

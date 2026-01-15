@@ -123,7 +123,7 @@ const About = () => {
           ref={descriptionRef}
           className="text-gray-600 text-md text-center italic max-w-4xl"
         >
-          At Paila, we believe every journey starts with the right step. Our platform is designed to help travelers experience Nepal authentically and stress-free. Whether you're planning a trek to Everest Base Camp, a cultural tour of Kathmandu Valley, or a peaceful escape to Pokhara's lakeside, Paila makes it simple.
+          At Paila, we believe every journey starts with the right step. Our platform is designed to help travelers experience Nepal authentically and stress-free. Whether you&apos;re planning a trek to Everest Base Camp, a cultural tour of Kathmandu Valley, or a peaceful escape to Pokhara&apos;s lakeside, Paila makes it simple.
         </p>
       </div>
 
